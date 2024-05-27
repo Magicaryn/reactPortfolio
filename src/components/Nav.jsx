@@ -1,9 +1,10 @@
 import { Link, useLocation } from 'react-router-dom';
+import Navbar from './Navbar';
 
 export default function Nav() {
     const currentPage = useLocation().pathname;
     return (
-        <>
+
         <nav className="navbar navbar-expand-lg bg-body-teriary top-navbar">
             <div className="container-fluid">
                 <div className='d-flex flex-wrap align-content-stretch'>
@@ -31,6 +32,6 @@ export default function Nav() {
              </div>
             </div>
         </nav>
-        </>
+
     )
 }

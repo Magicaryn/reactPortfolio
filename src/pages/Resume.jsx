@@ -13,7 +13,7 @@ export default function ResumePage() {
                 world of UI/UX.</p>
                 <h3>Work History:</h3>
                 <ul>
-                <li>Portillo's Hot Dogs, Manager</li>
+                <li>Portillos Hot Dogs, Manager</li>
                 <li>Buffalo Wild Wings, Assistant General Manager</li>
                 <li>Dave and Busters, Areo Operations Manager</li>
                 <li>Famous Daves, Manager</li>
