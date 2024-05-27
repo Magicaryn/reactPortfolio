@@ -1,9 +1,9 @@
 export default function Apps() {
     const apps = [
-        {key: 'a', title:'Concert Sampler', image:'\public\assets\concertsampler.png', github:'https://github.com/Magicaryn/ConcertSampler', live: 'https://magicaryn.github.io/ConcertSampler/',},
-        {key: 'b', title:'Event Tracker', image:'\public\assets\employee-example.gif', github:'https://github.com/Magicaryn/EventTracker', live:'https://eventtracker.onrender.com/',},
-        {key: 'c', title:'SVG Logo Maker', image: '\public\assets\logo.svg', github:'https://github.com/Magicaryn/svgLogoMaker', yt:'https://youtu.be/hYMXqp8ZKNk'},
-        {key: 'd', title: 'Employee Tracker', image: '\public\assets\employeeTrack.png', github:'https://github.com/Magicaryn/EmployeeTracker', yt:'https://www.youtube.com/watch?v=UrhcxqreImo'},
+        {key: 'a', title:'Concert Sampler', image:'./assets/concertsampler.png', github:'https://github.com/Magicaryn/ConcertSampler', live: 'https://magicaryn.github.io/ConcertSampler/',},
+        {key: 'b', title:'Event Tracker', image:'./assets/employee-example.gif', github:'https://github.com/Magicaryn/EventTracker', live:'https://eventtracker.onrender.com/',},
+        {key: 'c', title:'SVG Logo Maker', image: './assets/logo.svg', github:'https://github.com/Magicaryn/svgLogoMaker', yt:'https://youtu.be/hYMXqp8ZKNk'},
+        {key: 'd', title: 'Employee Tracker', image: './assets/employeeTrack.png', github:'https://github.com/Magicaryn/EmployeeTracker', yt:'https://www.youtube.com/watch?v=UrhcxqreImo'},
     ];
 
     return (
