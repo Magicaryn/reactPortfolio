@@ -11,7 +11,7 @@ export default function PortfolioPage(){
                     <br />
                     <br />
                 </div>
-            <div className="container">
+            <div className="container-fluid">
                 <div className="row">
                     <div className="card-deck">
                      <Apps />

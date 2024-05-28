@@ -7,7 +7,7 @@ export default function AboutPage() {
                     <div className="col profile-image">
                         <img src="/public/assets/IMG_8992.JPG" className='img-fluid'/>
                     </div>
-                    <div className="col">
+                    <div className="col bio">
                       Welcome to my Portfolio!! I am a student in the coding bootcamp at northwestern university.
                        This is my first time attempting development or working with data in this fashion. I have come
                         from many years of management in the restaurant industry and never had a technical background other
