@@ -15,7 +15,7 @@ export default function ResumePage() {
                 <ul>
                 <li>Portillos Hot Dogs, Manager</li>
                 <li>Buffalo Wild Wings, Assistant General Manager</li>
-                <li>Dave and Busters, Areo Operations Manager</li>
+                <li>Dave and Busters, Area Operations Manager</li>
                 <li>Famous Daves, Manager</li>
                 <li>Taco Bell, Restaurant General Manager</li>
                 </ul>
